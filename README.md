@@ -23,7 +23,7 @@ For all my friends using my TDs who now need to store everything in it instead o
 - **AUTHORISED_USERS** : The Telegram user IDs (not username) of people you wish to allow for bot access.It can also be group chat id. Write like: [123456, 4030394, -1003823820]
 - **IS_TEAM_DRIVE** : (Optional field) Set to True if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.
 - **USE_SERVICE_ACCOUNTS**: (Optional field) (Leave empty if unsure) Whether to use service accounts or not. For this to work see  "Using service accounts" section below.
-- **INDEX_URL** : (Optional field) Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'
+- **INDEX_URL** : (Optional field) Refer to https://github.com/rakesh999456/GDIndex/ The URL should not have any trailing '/'
 
 ## Getting Google OAuth API credential file
 
